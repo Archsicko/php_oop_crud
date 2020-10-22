@@ -1,0 +1,1 @@
+"User" table with two fields "username" and "password"
